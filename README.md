@@ -46,12 +46,20 @@ This is where my testing work is.
 
 ## Recommended blogs:
 
-* remigiuszbednarczyk.pl
-* testuj.pl
-* tester.milenabednarczyk.pl
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/portfolio-testera)
+* [testuj.pl](https://https://testuj.pl)
+* [tester.milenabednarczyk.pl](https://https://tester.milenabednarczyk.pl)
 
 ## Webinars
 
 * Warsztaty z testowania na żywo - Karolina Pawłowska
 * ChatGPT dla testerów oprogramowania. Nowa odsłona pracy testera oprogramowania
+
+## My Documentation
+
+* [Test cases](https://docs.google.com/document/d/1wk8D4Iq3yjVkIxewlgMaLVa3jkg_r6ov4Ui_5guLgWY/edit?usp=sharing)
+* [Bud reporting](https://docs.google.com/document/d/1tg1r35cNuds5_C7ZSrcdWAtiACirAyHmSpZ7xI1MnMA/edit?usp=sharing)
+* [API testing](https://docs.google.com/document/d/1b21rR4a6im9JgqO-DFsaVxEV0B9EA-o91UkviVHL-Qc/edit?usp=sharing)
+* [SQL](https://docs.google.com/document/d/1TEvHVjJC_2dYmrIELM2XjWxYinWLm622xPjYYLZT_Fk/edit?usp=sharing)
+
 
