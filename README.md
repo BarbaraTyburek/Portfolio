@@ -64,8 +64,8 @@ This is where my testing work is.
 * [Bug reporting](https://docs.google.com/document/d/1tg1r35cNuds5_C7ZSrcdWAtiACirAyHmSpZ7xI1MnMA/edit?usp=sharing)
 * [API testing](https://docs.google.com/document/d/1b21rR4a6im9JgqO-DFsaVxEV0B9EA-o91UkviVHL-Qc/edit?usp=sharing)
 * [SQL](https://docs.google.com/document/d/1TEvHVjJC_2dYmrIELM2XjWxYinWLm622xPjYYLZT_Fk/edit?usp=sharing)
-* [Test scenarios_ TestRail] (https://docs.google.com/document/d/1fbpEZk4dpU80TkEAP7td8Aj3riaQGHI773O_9tQ9XV4/edit)
-* [Bug reporting_Jira] (https://docs.google.com/document/d/1uZFct4VA2bY0Tz6Po2jpG7pv6QI0ExUA8kggM4ITQOg/edit)
+* [Test scenarios_ TestRail](https://docs.google.com/document/d/1fbpEZk4dpU80TkEAP7td8Aj3riaQGHI773O_9tQ9XV4/edit)
+* [Bug reporting_Jira](https://docs.google.com/document/d/1uZFct4VA2bY0Tz6Po2jpG7pv6QI0ExUA8kggM4ITQOg/edit)
 
 
 
