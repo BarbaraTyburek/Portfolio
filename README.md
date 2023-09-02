@@ -3,7 +3,8 @@ This is where my testing work is.
 
 ## About me
 
-* I'm starting my adventure as a manual tester. I have completed the QAE course and am preparing for the ISTQB Foundation level exam.
+* Certyficate ISTQB Foundation Level CTFL3-2023-21043-SJSI
+* I'm starting my adventure as a manual tester.
 * I really like the work of a manual tester. I like and know how to write test scenarios, test cases and report bugs.
 * I am constantly improving my knowledge of tools useful at work and I enjoy it.
 * My goal is to build a solid knowledge of basic testing tools and educate myself in the field of test automation.
@@ -31,7 +32,7 @@ This is where my testing work is.
 
 ## Books
 
-* A. Roman, L. Stapp - Certyfikowane tester ISTQB
+* A. Roman, L. Stapp - Certyfikowany tester ISTQB
 * R. Podraza - Certyfikat ISTQB w pytaniach i odpowiedziach
 * B. Forta - SQL w mgnieniu oka
 * K. Pawłowska, N. Pawlak - Podróż przez świat testowania
@@ -57,6 +58,7 @@ This is where my testing work is.
 * ChatGPT dla testerów oprogramowania. Nowa odsłona pracy testera oprogramowania
 * Bezpłatne Szkolenie Online - Jak Zostać Testerem Oprogramowania - Marek Koszałka
 * Maraton Testowania GoIT
+*  Podcasts - Tu się testuje- Kinga Witko, Daria Dobrzańska
 
 ## My Documentation
 
@@ -66,6 +68,7 @@ This is where my testing work is.
 * [SQL](https://docs.google.com/document/d/1TEvHVjJC_2dYmrIELM2XjWxYinWLm622xPjYYLZT_Fk/edit?usp=sharing)
 * [Test scenarios_ TestRail](https://docs.google.com/document/d/1fbpEZk4dpU80TkEAP7td8Aj3riaQGHI773O_9tQ9XV4/edit)
 * [Bug reporting_Jira](https://docs.google.com/document/d/1uZFct4VA2bY0Tz6Po2jpG7pv6QI0ExUA8kggM4ITQOg/edit)
+* [Bug reporting Trello] (https://docs.google.com/document/d/1wZhfYaCwbHq6-twzqvfuY83u8ycxYSgk3gH3PO0bypA/edit) 
 
 
 
