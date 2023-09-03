@@ -30,6 +30,11 @@ This is where my testing work is.
 * Podstawowe Szkolenie w zakresie HTML
 * Course GoIT Qualiy Assurance Engineer
 
+## Projects
+
+*Cherry-IT Project 1/2023
+*Cherry_IT COLT 2/2023
+
 ## Books
 
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB
@@ -68,7 +73,7 @@ This is where my testing work is.
 * [SQL](https://docs.google.com/document/d/1TEvHVjJC_2dYmrIELM2XjWxYinWLm622xPjYYLZT_Fk/edit?usp=sharing)
 * [Test scenarios_ TestRail](https://docs.google.com/document/d/1fbpEZk4dpU80TkEAP7td8Aj3riaQGHI773O_9tQ9XV4/edit)
 * [Bug reporting_Jira](https://docs.google.com/document/d/1uZFct4VA2bY0Tz6Po2jpG7pv6QI0ExUA8kggM4ITQOg/edit)
-* [Bug reporting Trello] (https://docs.google.com/document/d/1wZhfYaCwbHq6-twzqvfuY83u8ycxYSgk3gH3PO0bypA/edit) 
+* [Bug reporting_Trello](https://docs.google.com/document/d/1wZhfYaCwbHq6-twzqvfuY83u8ycxYSgk3gH3PO0bypA/edit) 
 
 
 
